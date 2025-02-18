@@ -1,14 +1,13 @@
 //
 //  AppDelegate.swift
-//  TableViews
+//  MyCustomCollection
 //
-//  Created by Brais Moure.
-//  Copyright © 2020 MoureDev. All rights reserved.
+//  Created by elsalvador on 17/1/25.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
